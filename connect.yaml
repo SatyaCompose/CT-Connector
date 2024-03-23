@@ -15,3 +15,4 @@ deployAs:
 github:
     url: 'https://github.com/SatyaCompose/CT-Connector.git'
     tag: 'first_app_connector'
+    
