@@ -1,3 +1,4 @@
+deployAs: 
   - name: first-custom-application
     applicationType: merchant-center-custom-application    
     configuration:
