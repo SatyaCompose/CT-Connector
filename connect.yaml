@@ -12,7 +12,3 @@ deployAs:
         - key: ENTRY_POINT_URI_PATH
           description: The Application entry point URI path identified during registration of Custom Application
           required: true
-github:
-    url: 'https://github.com/SatyaCompose/CT-Connector.git'
-    tag: 'first_app_connector'
-    
